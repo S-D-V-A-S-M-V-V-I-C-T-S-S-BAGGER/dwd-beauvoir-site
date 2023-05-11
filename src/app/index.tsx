@@ -21,15 +21,15 @@ export function App() {
   return (
     <BrowserRouter>
       <Helmet
-        titleTemplate="D.W.D. Beauvoir | Enschede"
+        titleTemplate='D.W.D. Beauvoir | Enschede'
         htmlAttributes={{ lang: i18n.language }}
       >
-        <meta name="description" content="Website van D.W.D. Beauvoir" />
+        <meta name='description' content='Website van D.W.D. Beauvoir Enschede' />
       </Helmet>
 
       <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="*" element={<NotFoundPage />} />
+        <Route path='/' element={<HomePage />} />
+        <Route path='*' element={<NotFoundPage />} />
       </Routes>
       <GlobalStyle />
     </BrowserRouter>

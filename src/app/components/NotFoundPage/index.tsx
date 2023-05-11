@@ -8,12 +8,12 @@ export function NotFoundPage() {
     <>
       <Helmet>
         <title>404 Page Not Found</title>
-        <meta name="description" content="Page not found" />
+        <meta name='description' content='Page not found' />
       </Helmet>
       <Wrapper>
         <Title>
           4
-          <span role="img" aria-label="Crying Face">
+          <span role='img' aria-label='Crying Face'>
             😢
           </span>
           4
