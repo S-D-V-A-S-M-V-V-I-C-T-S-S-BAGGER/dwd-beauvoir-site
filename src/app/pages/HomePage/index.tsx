@@ -10,7 +10,7 @@ export function HomePage() {
         <meta name="description" content="A Boilerplate application homepage" />
       </Helmet>
       <Hero />
-      <img src="images/logo_with_bg.png"/>
+      <img src="/images/logo_with_bg.png" alt="Beauvoir Logo" />
     </>
   );
 }
