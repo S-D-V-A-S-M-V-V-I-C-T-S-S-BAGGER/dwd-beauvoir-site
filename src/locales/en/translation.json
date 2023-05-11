@@ -1,3 +1,12 @@
 {
-  "title": "welcome"
+  "HomePage": {
+    "WelcomeText": {
+      "initial": "HomePage.WelcomeText.initial.en",
+      "secondary": "HomePage.WelcomeText.secondary.en",
+      "quote": "- On n'existe pas sans faire -"
+    },
+    "LatestNews": {
+      "title": "Latest news"
+    }
+  }
 }

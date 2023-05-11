@@ -1,6 +1,7 @@
 import * as React from 'react';
 import { Helmet } from 'react-helmet-async';
-import { Hero } from './hero';
+import { Hero } from './Hero';
+import { HomePageContent } from './HomePageContent';
 
 export function HomePage() {
   return (
@@ -10,7 +11,7 @@ export function HomePage() {
         <meta name='description' content='A Boilerplate application homepage' />
       </Helmet>
       <Hero />
-      <img src='/images/logo_with_bg.png' alt='Beauvoir Logo' />
+      <HomePageContent />
     </>
   );
 }
