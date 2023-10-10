@@ -89,11 +89,11 @@ summarylength = 25
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "Neem contact met ons op"
-    primary_button      = "Submit Query"
+    title               = "Heb je een vraag?"
+    primary_button      = "Stuur een vraag"
     primary_button_url  = "contact"
-    secondary_button    = "Not Convinced"
-    secondary_button_url = "portfolio"
+    secondary_button    = "Historie"
+    secondary_button_url = "historie"
 
   [params.footer]
     params.footer.qr_print = false
@@ -134,8 +134,8 @@ summarylength = 25
           name = "Instagram"
           url  = "https://www.instagram.com/d.w.d.beauvoir/"
       # Footer Service
-      [params.footer.service]
-        title       = "We help brands:"
-        description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+      # [params.footer.service]
+      #   title       = "We help brands:"
+      #   description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
       [params.footer.back_to_top]
-        description = "I want to <br> visit again"
+        description = "Naar boven
