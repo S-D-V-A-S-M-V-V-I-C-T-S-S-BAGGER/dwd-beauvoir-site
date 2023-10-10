@@ -1,4 +1,4 @@
-baseURL       = "http://dwdbeauvoir.nl/"
+baseURL       = "https://dwdbeauvoir.nl/"
 languageCode  = "nl-nl"
 title         = "D.W.D. Beauvoir"
 theme         = "roxo-hugo"
@@ -12,50 +12,50 @@ summarylength = 25
     url     = ""
     weight  = 1
   [[menu.nav]]
-    name    = "About"
-    url     = "about"
+    name    = "Historie"
+    url     = "historie"
     weight  = 2
   [[menu.nav]]
-    name    = "Portfolio"
-    url     = "portfolio"
+    name    = "Bestuur"
+    url     = "bestuur"
     weight  = 3
   [[menu.nav]]
-    name    = "Blog"
-    url     = "blog"
+    name    = "Leden"
+    url     = "leden"
     weight  = 4
   [[menu.nav]]
-    name    = "Get in touch"
+    name    = "Contact"
     url     = "contact"
     weight  = 5
 
 # Site Params
 [params]
-  logo = "images/logo.png"
+  logo = "images/logo.png" # Waar staat het mapje images --> even zoeken en logo in stoppen
   logo_footer = "images/logo-footer.png"
   favicon_icon = "images/favicon.ico"
   favicon_shortcut_icon = "images/favicon.png"
   custom_stylesheets = []   # [ "scss/my_1.scss", "scss/my_2.scss" ]
-  dateFormat = "26 FEB 1994"
+  dateFormat = "17 februari 2016"
   # Meta data
-  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
+  description = "Dames Wedstrijd Dispuut Beauvoir"
   author = "StaticMania"
-  fabform  = "https://formspree.io/f/mknlqlbz"
+  fabform  = "https://formspree.io/f/mknlqlbz" # wat doet dit
 
   # Contact Form
   [params.contactForm]
     placeholder_first_name        = "Simone"
     placeholder_last_name         = "de Beauvoir"
-    placeholder_email             = "simone@aviron.fr"
-    # placeholder_project_type      = "Project Type"
+    placeholder_email             = "beauvoirbestuur@gmail.com"
+    # placeholder_project_type      = "Project Type" 
     # placeholder_about_the_project = "About the Project"
     send_message                  = "Verzenden"
 
     [[params.contactForm.projectType]]
-      value = "gd"
-      title  = "Graphics Design"
+      value = "vraag"
+      title  = "Vraag"
     [[params.contactForm.projectType]]
-      value = "wd"
-      title  = "Web Design"
+      value = "anders"
+      title  = "Anders"
   
   # Navbar Action Button
   [params.navAction]
@@ -68,15 +68,15 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "We’re a Design Studio That Belies In the Great Ideas"
-    tagline               = "WE WORK HARD, WE PLAY HARD"
-    primary_button        = "See Our Works"
-    primary_button_url    = "portfolio"
-    secondary_button      = "Connect with Us"
+    heading               = "Dames Wedstrijd Dispuut Beauvoir - Dispuut der D.R.V. Euros"
+    tagline               = "On n'existe pas sans faire"
+    primary_button        = "Bekijk onze leden"
+    primary_button_url    = "leden"
+    secondary_button      = "Neem contact op"
     secondary_button_url  = "contact"
 
   [params.blog]
-    read_more             = "read more"
+    read_more             = "lees meer"
 
   [params.portfolio]
     enable    = true
