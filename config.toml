@@ -68,20 +68,20 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "Dames Wedstrijd Dispuut Beauvoir - Dispuut der D.R.V. Euros"
+    heading               = "D.W.D. Beauvoir"
     tagline               = "On n'existe pas sans faire"
     primary_button        = "Bekijk onze leden"
     primary_button_url    = "leden"
     secondary_button      = "Neem contact op"
     secondary_button_url  = "contact"
 
-  [params.blog]
+  [params.historie]
     read_more             = "lees meer"
 
-  [params.portfolio]
+  [params.leden]
     enable    = true
-    title     = "OUR RECENT WORKS"
-    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    title     = "Onze leden"
+    subtitle  = ""
     view_project = "view project"
     more_works = "MORE WORKS"
     scroll_down = "scroll down"
@@ -89,53 +89,53 @@ summarylength = 25
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "LET’S WORK TOGETHER"
-    primary_button      = "Submit Query"
+    title               = "Heb je een vraag?"
+    primary_button      = "Stuur een vraag"
     primary_button_url  = "contact"
-    secondary_button    = "Not Convinced"
-    secondary_button_url = "portfolio"
+    secondary_button    = "Historie"
+    secondary_button_url = "historie"
 
   [params.footer]
     params.footer.qr_print = false
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Contact Info"
-      address = "713 Elmwood St.<br>Prior Lake, MN 55372"
-      phone   = "409-896-1444"
-      email   = "info@roxo.co"
+      address = "Auke Vleerstraat 99 Enschede"
+      #phone   = "409-896-1444"
+      email   = "beauvoirbestuur@gmail.com"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"
         [[params.footer.sitemap.link]]
-          name = "About Company"
+          name = "Historie"
           url  = "about"
         [[params.footer.sitemap.link]]
-          name = "Projects"
-          url  = "portfolio"
+          name = "Leden"
+          url  = "leden"
         [[params.footer.sitemap.link]]
-          name = "Blog"
-          url  = "blog"
+          name = "Bestuur"
+          url  = "bestuur"
         [[params.footer.sitemap.link]]
           name = "Contact"
           url  = "contact"
       # Footer Social Media
       [params.footer.social]
         title   = "Social Media"
-        [[params.footer.social.link]]
-          name = "Medium"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Behance"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Dribbble"
-          url  = "#"
+        # [[params.footer.social.link]]
+        #   name = "Medium"
+        #   url  = "#"
+        # [[params.footer.social.link]]
+        #   name = "Behance"
+        #   url  = "#"
+        # [[params.footer.social.link]]
+        #   name = "Dribbble"
+        #   url  = "#"
         [[params.footer.social.link]]
           name = "Instagram"
-          url  = "#"
+          url  = "https://www.instagram.com/d.w.d.beauvoir/"
       # Footer Service
-      [params.footer.service]
-        title       = "We help brands:"
-        description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+      # [params.footer.service]
+      #   title       = "We help brands:"
+      #   description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
       [params.footer.back_to_top]
-        description = "I want to <br> visit again"
+        description = "Naar boven"
