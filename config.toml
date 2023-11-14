@@ -138,4 +138,4 @@ summarylength = 25
       #   title       = "We help brands:"
       #   description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
       [params.footer.back_to_top]
-        description = "Naar boven
+        description = "Naar boven"

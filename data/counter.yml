@@ -1,14 +1,14 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "Onze nummers"
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
+  - title: "Beauvides"
+    number: "43"
 
-  - title: "Projects Completed"
-    number: "100"
+  - title: "Lichtingen"
+    number: "9"
 
-  - title: "Cups of coffee"
-    number: "350"
+  - title: "Jaren actief"
+    number: "8"
 
-  - title: "Telephone Talks"
-    number: "775"
+  - title: "Actieve wedstrijdroeiers"
+    number: "6"
