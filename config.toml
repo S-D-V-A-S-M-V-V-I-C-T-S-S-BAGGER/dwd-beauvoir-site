@@ -21,7 +21,7 @@ summarylength = 25
     weight  = 3
   [[menu.nav]]
     name    = "Leden"
-    url     = "blog"
+    url     = "team.yml"
     weight  = 4
   [[menu.nav]]
     name    = "Contact"
