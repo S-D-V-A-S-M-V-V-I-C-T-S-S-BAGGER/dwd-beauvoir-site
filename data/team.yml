@@ -1,30 +1,30 @@
 enable  : true
-title   : Team that makes the difference.
+title   : Onze leden
 members  :
+  - image       : images/team/team-member-three.jpg
+    name        : Laurèn Appelman
+    designation : Lichting 0
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/  
+    
   - image       : images/team/team-member-one.jpg
-    name        : PABLO ESCOBAR
-    designation : Creative Director
+    name        : Lieke Berns
+    designation : Lichting 0
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/team-member-two.jpg
-    name        : MONTINO RIAU
-    designation : Product Manager
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
-
-  - image       : images/team/team-member-three.jpg
-    name        : ALEX NAASRI
-    designation : Chief Design Officer
+    name        : Geeske Boer
+    designation : Lichting 0
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/team-member-four.jpg
-    name        : HONGMAN CHIOA
-    designation : UX Researcher
+    name        : Maureen Groot Koerkamp
+    designation : Lichting 0
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
