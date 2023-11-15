@@ -1,1 +1,22 @@
+enable  : true
+title   : "Bestuur"
+subtitle: "Het huidige bestuur van D.W.D. Beauvoir"
+testimonial_item :
+  - thumb : "images/testimonial/Marijke.jpg"
+    name  : "Marijke Agaart"
+    company_position: "Voorzitter"
+    quote : > 
+            "Voor vragen over commissies, leden en vergaderingen kun je terecht bij Marijke."
+
+  - thumb : "images/testimonial/Akkie.jpg"
+    name  : "Ilse Akkermans"
+    company_position: "Secretaris"
+    quote : > 
+            "Je kunt Ilse vragen naar de maandelijkse mail, contact, en sociale media." 
+
+  - thumb : "images/testimonial/Ilse.jpg"
+    name  : "Ilse Schieven"
+    company_position: "Penningmeester"
+    quote : > 
+            "Je kunt bij Ilse terecht voor vragen over de financiën van Beauvoir." 
 
