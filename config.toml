@@ -67,7 +67,7 @@ summarylength = 25
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/backgroundv3@600x.png"
+    background_image      = "images/backgrounds/backgroundv3.png"
     heading               = "D.W.D. Beauvoir"
     tagline               = "On n'existe pas sans faire"
     primary_button        = "Bekijk onze leden"
