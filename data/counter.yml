@@ -1,5 +1,5 @@
 enable : true
-heading : "Onze nummers"
+heading : "Onze cijfers"
 counter_item: 
   - title: "Beauvides"
     number: "43"
