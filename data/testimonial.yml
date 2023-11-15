@@ -19,21 +19,87 @@ testimonial_item :
     company_position: "Penningmeester"
     quote : > 
             "Je kunt bij Ilse terecht voor vragen over de financiën van Beauvoir." 
+# voorgaande besturen, hier moet wel een soort page break of iets komen           
+subtitle: "Bestuur 6"
+testimonial_item :
+  - thumb : "images/testimonial/user-thum-five.jpg"
+    name  : "Lilian van Oosterhout"
+    company_position: "Voorzitter"
 
-  # - thumb : "images/testimonial/user-thumb-four.jpg"
-  #   name  : "Dockrel Kahn"
-  #   company_position: "PM, Walmet"
-  #   quote : > 
-  #           "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+  - thumb : "images/testimonial/user-thum-five.jpg"
+    name  : "Nynke Dijkhuis"
+    company_position: "Secretaris"
 
-  # - thumb : "images/testimonial/user-thumb-five.jpg"
-  #   name  : "Orino Monteno"
-  #   company_position: "CEO, Axion"
-  #   quote : > 
-  #           "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
+  - thumb : "images/testimonial/user-thum-five.jpg"
+    name  : "Nellie Duisterwinkel"
+    company_position: "Penningmeester"
+    
+subtitle: "Bestuur 5"
+testimonial_item :
+  - thumb : "images/testimonial/user-thum-five.jpg"
+    name  : "Isabel Gerritsen"
+    company_position: "Voorzitter"
 
-  # - thumb : "images/testimonial/user-thumb-six.jpg"
-  #   name  : "Welfo Roy"
-  #   company_position: "PDO, Komoyo"
-  #   quote : > 
-  #           "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 
+  - thumb : "images/testimonial/user-thum-five.jpg"
+    name  : "Maartje Geurts"
+    company_position: "Secretaris"
+
+  - thumb : "images/testimonial/user-thum-five.jpg"
+    name  : "Cyrelle Tenhagen"
+    company_position: "Penningmeester"
+
+subtitle: "Bestuur 4"
+testimonial_item :
+  - thumb : "images/testimonial/user-thum-five.jpg"
+    name  : "Mayke Doorn"
+    company_position: "Voorzitter"
+
+  - thumb : "images/testimonial/user-thum-five.jpg"
+    name  : "Anne Leemreize"
+    company_position: "Secretaris"
+
+  - thumb : "images/testimonial/user-thum-five.jpg"
+    name  : "Rachel Foppen"
+    company_position: "Penningmeester"
+
+subtitle: "Bestuur 3"
+testimonial_item :
+  - thumb : "images/testimonial/user-thum-five.jpg"
+    name  : "Minke Holleboom"
+    company_position: "Voorzitter"
+
+  - thumb : "images/testimonial/user-thum-five.jpg"
+    name  : "Manon Milner"
+    company_position: "Secretaris"
+
+  - thumb : "images/testimonial/user-thum-five.jpg"
+    name  : "Mayke Doorn"
+    company_position: "Penningmeester"
+
+subtitle: "Bestuur 2"
+testimonial_item :
+  - thumb : "images/testimonial/user-thum-five.jpg"
+    name  : "Lieke Berns"
+    company_position: "Voorzitter"
+
+  - thumb : "images/testimonial/user-thum-five.jpg"
+    name  : "Laurèn Appelman"
+    company_position: "Secretaris"
+
+  - thumb : "images/testimonial/user-thum-five.jpg"
+    name  : "Marloes Hengeveld"
+    company_position: "Penningmeester"
+
+subtitle: "Bestuur 1"
+testimonial_item :
+  - thumb : "images/testimonial/user-thum-five.jpg"
+    name  : "Justine Wolters"
+    company_position: "Voorzitter"
+
+  - thumb : "images/testimonial/user-thum-five.jpg"
+    name  : "Laurèn Appelman"
+    company_position: "Secretaris"
+
+  - thumb : "images/testimonial/user-thum-five.jpg"
+    name  : "Marloes Hengeveld"
+    company_position: "Penningmeester"
