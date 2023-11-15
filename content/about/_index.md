@@ -4,5 +4,5 @@ date: 2018-07-12T18:19:33+06:00
 heading : "D.W.D. Beauvoir - Dames wedstrijd dispuut der D.R.V. Euros"
 description : "Wij zijn er voor wedstrijdroeiers en -stuurtjes. We borrelen elke donderdag op de Sevende Camer en organiseren daarnaast ook nog activiteiten, onder andere de wedstrijdavond tijdens de NIKE, het Zomerdiner en het Lintendiner."
 expertise_title: "Wedstrijdroeien"
-expertise_sectors: ["Enschede", "Roeien", "Dames", "Beauvoir", "Sportief", "Sterk", "Kracht", "Euros", "Goede akka", "Borrelen", "Snacks", "Koekjes", "Taart"]
+expertise_sectors: ["Roeien", "Dispuut", "Dames", "Roeidispuut", "Wedstrijdroeien", "Wedstrijddispuut", "Sport", "Krachttraining", "Euros", "DRV Euros", "Borrelen"]
 ---
