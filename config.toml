@@ -17,11 +17,11 @@ summarylength = 25
     weight  = 2
   [[menu.nav]]
     name    = "Bestuur"
-    url     = "bestuur"
+    url     = "portfolio"
     weight  = 3
   [[menu.nav]]
     name    = "Leden"
-    url     = "leden"
+    url     = "blog"
     weight  = 4
   [[menu.nav]]
     name    = "Contact"
@@ -111,10 +111,10 @@ summarylength = 25
           url  = "about"
         [[params.footer.sitemap.link]]
           name = "Leden"
-          url  = "leden"
+          url  = "blog"
         [[params.footer.sitemap.link]]
           name = "Bestuur"
-          url  = "bestuur"
+          url  = "portfolio"
         [[params.footer.sitemap.link]]
           name = "Contact"
           url  = "contact"
