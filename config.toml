@@ -13,7 +13,7 @@ summarylength = 25
     weight  = 1
   [[menu.nav]]
     name    = "Historie"
-    url     = "historie"
+    url     = "about"
     weight  = 2
   [[menu.nav]]
     name    = "Bestuur"
