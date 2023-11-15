@@ -30,7 +30,7 @@ summarylength = 25
 
 # Site Params
 [params]
-  logo = "logo_beauvoir_mintgroen(1).png" # Waar staat het mapje images --> even zoeken en logo in stoppen : static/images/testimonial/logo_beauvoir_mintgroen(1).png
+  logo = "logo_beauvoir_mintgroen(1).png" # Waar staat het mapje images --> even zoeken en logo in stoppen : static/images/logo_beauvoir_mintgroen(1).png
   logo_footer = "logo_beauvoir_mintgroen(1).png"
   favicon_icon = "logo_beauvoir_mintgroen(1).ico"
   favicon_shortcut_icon = "logo_beauvoir_mintgroen(1).png"
