@@ -2,43 +2,191 @@ enable  : true
 title   : Onze leden
 members  :
   - image       : images/team/team-member-three.jpg
-    name        : Laurèn Appelman
-    designation : Lichting 0
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/  
+    name        : Cordelia Rödder
+    designation : Lichting 0 
     
   - image       : images/team/team-member-one.jpg
-    name        : Lieke Berns
-    designation : Lichting 0
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
-
-  - image       : images/team/team-member-two.jpg
     name        : Geeske Boer
     designation : Lichting 0
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-two.jpg
+    name        : Helen Harmsen
+    designation : Lichting 0
+
+  - image       : images/team/team-member-four.jpg
+    name        : Justine Wolters
+    designation : Lichting 0
+
+  - image       : images/team/team-member-five.jpg
+    name        : Lara Leijtens
+    designation : Lichting 0enable  : true
+title   : Onze leden
+members  :
+  - image       : images/team/team-member-three.jpg
+    name        : Cordelia Rödder
+    designation : Lichting 0 
+    
+  - image       : images/team/team-member-one.jpg
+    name        : Geeske Boer
+    designation : Lichting 0
+
+  - image       : images/team/team-member-two.jpg
+    name        : Helen Harmsen
+    designation : Lichting 0
+
+  - image       : images/team/team-member-four.jpg
+    name        : Justine Wolters
+    designation : Lichting 0
+
+
+  - image       : images/team/team-member-six.jpg
+    name        : Laurèn Appelman
+    designation : Lichting 0
+    
+      - image       : images/team/team-member-three.jpg
+    name        : Lieke Berns
+    designation : Lichting 0 
+    
+  - image       : images/team/team-member-one.jpg
+    name        : Machteld Vermeer
+    designation : Lichting 0
+
+  - image       : images/team/team-member-two.jpg
+    name        : Marloes Hengeveld
+    designation : Lichting 0
 
   - image       : images/team/team-member-four.jpg
     name        : Maureen Groot Koerkamp
     designation : Lichting 0
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
 
   - image       : images/team/team-member-five.jpg
-    name        : SANTIO ANDRESS
-    designation : Content Researcher
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    name        : Evelyn van de Bildt
+    designation : Lichting 1
 
   - image       : images/team/team-member-six.jpg
-    name        : RAMESH PAUL
-    designation : Creative Designer
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    name        : Floor Bakker
+    designation : Lichting 1
+    
+  - image       : images/team/team-member-five.jpg
+    name        : Ilse van Bruggen
+    designation : Lichting 1
+
+  - image       : images/team/team-member-six.jpg
+    name        : Minke Holleboom
+    designation : Lichting 1
+
+      - image       : images/team/team-member-five.jpg
+    name        : Hannah Boogert
+    designation : Lichting 2
+
+  - image       : images/team/team-member-six.jpg
+    name        : Manon Milner
+    designation : Lichting 2
+    
+  - image       : images/team/team-member-five.jpg
+    name        : Marjolein Scheffers
+    designation : Lichting 2
+
+  - image       : images/team/team-member-six.jpg
+    name        : Mayke Doorn
+    designation : Lichting 2
+
+          - image       : images/team/team-member-five.jpg
+    name        : Anne Leemreize
+    designation : Lichting 3
+
+  - image       : images/team/team-member-six.jpg
+    name        : Isabel Gerritsen
+    designation : Lichting 3
+    
+  - image       : images/team/team-member-five.jpg
+    name        : Maartje Geurts
+    designation : Lichting 3
+
+  - image       : images/team/team-member-six.jpg
+    name        : Rachel Foppen
+    designation : Lichting 3
+
+              - image       : images/team/team-member-five.jpg
+    name        : Cyrelle Tenhagen
+    designation : Lichting 4
+
+  - image       : images/team/team-member-six.jpg
+    name        : Lilian van Oosterhout
+    designation : Lichting 4
+    
+  - image       : images/team/team-member-five.jpg
+    name        : Nellie Duisterwinkel
+    designation : Lichting 4
+
+  - image       : images/team/team-member-six.jpg
+    name        : Nynke Dijkhuis
+    designation : Lichting 4
+
+                - image       : images/team/team-member-five.jpg
+    name        : Annefie Tuinstra
+    designation : Lichting 5
+
+  - image       : images/team/team-member-six.jpg
+    name        : Ilse Schieven
+    designation : Lichting 5
+    
+  - image       : images/team/team-member-five.jpg
+    name        : Maaike Geerdink
+    designation : Lichting 5
+
+  - image       : images/team/team-member-six.jpg
+    name        : Nicole Fledderus
+    designation : Lichting 5
+
+                  - image       : images/team/team-member-five.jpg
+    name        : Anne de Voer
+    designation : Lichting 6
+
+  - image       : images/team/team-member-six.jpg
+    name        : Eva Vogelezang
+    designation : Lichting 6
+    
+  - image       : images/team/team-member-five.jpg
+    name        : Ilse Akkermans
+    designation : Lichting 6
+
+  - image       : images/team/team-member-six.jpg
+    name        : Marijke Agaart
+    designation : Lichting 6
+
+                  - image       : images/team/team-member-five.jpg
+    name        : Sarah Mans
+    designation : Lichting 6
+
+  - image       : images/team/team-member-six.jpg
+    name        : Saskia Slump
+    designation : Lichting 6
+    
+  - image       : images/team/team-member-five.jpg
+    name        : Anna Bril
+    designation : Lichting 7
+
+  - image       : images/team/team-member-six.jpg
+    name        : Emma Kempers
+    designation : Lichting 7
+
+                  - image       : images/team/team-member-five.jpg
+    name        : Maartje Kuperus
+    designation : Lichting 7
+
+  - image       : images/team/team-member-six.jpg
+    name        : Lelie van Everdingen
+    designation : Lichting 8
+    
+  - image       : images/team/team-member-five.jpg
+    name        : Madelief Gianotten
+    designation : Lichting 8
+
+  - image       : images/team/team-member-six.jpg
+    name        : Meike Moes
+    designation : Lichting 8
+
+      - image       : images/team/team-member-six.jpg
+    name        : Nienke Overgoor
+    designation : Lichting 8
