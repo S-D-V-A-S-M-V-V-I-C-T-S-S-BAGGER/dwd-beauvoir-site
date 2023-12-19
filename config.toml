@@ -17,7 +17,7 @@ summarylength = 25
     weight  = 2
   [[menu.nav]]
     name    = "Bestuur"
-    url     = "bestuur"
+    url     = "blog"
     weight  = 3
   [[menu.nav]]
     name    = "Leden"
@@ -114,7 +114,7 @@ summarylength = 25
           url  = "portfolio"
         [[params.footer.sitemap.link]]
           name = "Bestuur"
-          url  = "bestuur"
+          url  = "blog"
         [[params.footer.sitemap.link]]
           name = "Contact"
           url  = "contact"
