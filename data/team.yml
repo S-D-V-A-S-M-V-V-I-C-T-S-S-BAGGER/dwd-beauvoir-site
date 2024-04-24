@@ -19,9 +19,8 @@ members  :
 
   - image       : images/team/team-member-five.jpg
     name        : Lara Leijtens
-    designation : Lichting 0enable  : true
-title   : Onze leden
-members  :
+    designation : Lichting 0
+
   - image       : images/team/team-member-three.jpg
     name        : Cordelia Rödder
     designation : Lichting 0 
@@ -37,7 +36,6 @@ members  :
   - image       : images/team/team-member-four.jpg
     name        : Justine Wolters
     designation : Lichting 0
-
 
   - image       : images/team/team-member-six.jpg
     name        : Laurèn Appelman
@@ -91,7 +89,7 @@ members  :
     name        : Mayke Doorn
     designation : Lichting 2
 
-          - image       : images/team/team-member-five.jpg
+  - image       : images/team/team-member-five.jpg
     name        : Anne Leemreize
     designation : Lichting 3
 
@@ -107,7 +105,7 @@ members  :
     name        : Rachel Foppen
     designation : Lichting 3
 
-              - image       : images/team/team-member-five.jpg
+  - image       : images/team/team-member-five.jpg
     name        : Cyrelle Tenhagen
     designation : Lichting 4
 
@@ -123,7 +121,7 @@ members  :
     name        : Nynke Dijkhuis
     designation : Lichting 4
 
-                - image       : images/team/team-member-five.jpg
+  - image       : images/team/team-member-five.jpg
     name        : Annefie Tuinstra
     designation : Lichting 5
 
@@ -139,7 +137,7 @@ members  :
     name        : Nicole Fledderus
     designation : Lichting 5
 
-                  - image       : images/team/team-member-five.jpg
+  - image       : images/team/team-member-five.jpg
     name        : Anne de Voer
     designation : Lichting 6
 
@@ -155,7 +153,7 @@ members  :
     name        : Marijke Agaart
     designation : Lichting 6
 
-                  - image       : images/team/team-member-five.jpg
+  - image       : images/team/team-member-five.jpg
     name        : Sarah Mans
     designation : Lichting 6
 
@@ -171,7 +169,7 @@ members  :
     name        : Emma Kempers
     designation : Lichting 7
 
-                  - image       : images/team/team-member-five.jpg
+  - image       : images/team/team-member-five.jpg
     name        : Maartje Kuperus
     designation : Lichting 7
 
@@ -187,6 +185,6 @@ members  :
     name        : Meike Moes
     designation : Lichting 8
 
-      - image       : images/team/team-member-six.jpg
+  - image       : images/team/team-member-six.jpg
     name        : Nienke Overgoor
     designation : Lichting 8
