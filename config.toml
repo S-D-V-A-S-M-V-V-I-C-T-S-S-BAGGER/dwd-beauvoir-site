@@ -135,7 +135,7 @@ summarylength = 25
           url  = "https://www.instagram.com/d.w.d.beauvoir/"
       # Footer Service
       # [params.footer.service]
-      #   title       = "We help brands:"
-      #   description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+      #   title       = "DWD Beauvoir"
+      #   description = "On n'existe pas sans faire"
       [params.footer.back_to_top]
         description = "Naar boven"
