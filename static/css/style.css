@@ -107,6 +107,9 @@ header nav {
     padding: 0 0.5rem
 }
 
+btn-primary:hover {
+  background: #c20d0d;
+
 header a {
     color: #fff;
     line-height: 1.75rem;
