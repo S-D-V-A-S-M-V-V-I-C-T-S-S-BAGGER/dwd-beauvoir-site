@@ -3,27 +3,26 @@ title       : "Bestuur"
 date        : 2024-04-24T20:47:01+06:00
 description : "Beauvoir wordt bestuurd door een driekoppig bestuur bestaande uit de voorzitter, secretaris en penningmeester. Ieder jaar op de Dies wordt een nieuw Beauvoir bestuur gewisseld. Benieuwd naar wie de afgelopen jaren Dames Wedstrijd Roeidispuut hebben bestuurd? Hieronder vind je een overzicht. "
 ---
+### "Het huidige bestuur van D.W.D. Beauvoir"
+#### Voorzitter
+![Eva](images/testimonial/Eva.jpg)
+<img src="images/testimonial/Eva.jpg" alt="Eva Vogelezang" width="300">
+##### Voorzitter
+"Voor vragen over commissies, leden en vergaderingen kun je terecht bij Eva."
 
-subtitle: "Het huidige bestuur van D.W.D. Beauvoir"
-testimonial_item :
-  - thumb : "images/testimonial/Eva.jpg"
-    name  : "Eva Vogelezang"
-    company_position: "Voorzitter"
-    quote : > 
-            "Voor vragen over commissies, leden en vergaderingen kun je terecht bij Eva."
-
+#### Secretaris
   - thumb : "images/testimonial/Nicole.jpg"
     name  : "Nicole Fledderus"
     company_position: "Secretaris"
     quote : > 
             "Nicole is het eerste contactpunt voor leden en externen, ook is zij de beheerder van de maandelijkse mail." 
-
+#### Penningmeester
   - thumb : "images/testimonial/Saskia.jpg"
     name  : "Saskia Slump"
     company_position: "Penningmeester"
     quote : > 
             "Je kunt bij Saskia terecht voor alle financiële zaken van Beauvoir." 
-# voorgaande besturen, hier moet wel een soort page break of iets komen     
+   
 
 
 subtitle: "Bestuur 7"
