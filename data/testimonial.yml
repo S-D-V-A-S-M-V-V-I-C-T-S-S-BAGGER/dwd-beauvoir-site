@@ -2,20 +2,20 @@ enable  : true
 title   : "Bestuur"
 subtitle: "Het huidige bestuur van D.W.D. Beauvoir"
 testimonial_item :
-  - thumb : "images/testimonial/Marijke.jpg"
-    name  : "Marijke Agaart"
+  - thumb : "images/testimonial/Eva.jpg"
+    name  : "Eva Vogelezang"
     company_position: "Voorzitter"
     quote : > 
-            "Voor vragen over commissies, leden en vergaderingen kun je terecht bij Marijke."
+            "Voor vragen over commissies, leden en vergaderingen kun je terecht bij Eva."
 
-  - thumb : "images/testimonial/Akkie.jpg"
-    name  : "Ilse Akkermans"
+  - thumb : "images/testimonial/Nicole.jpg"
+    name  : "Nicole Fledderus"
     company_position: "Secretaris"
     quote : > 
-            "Je kunt Ilse vragen naar de maandelijkse mail, contact, en sociale media." 
+            "Nicole is het eerste contactpunt voor leden en externen, ook is zij de beheerder van de maandelijkse mail." 
 
-  - thumb : "images/testimonial/Ilse.jpg"
-    name  : "Ilse Schieven"
+  - thumb : "images/testimonial/Saskia.jpg"
+    name  : "Saskia Slump"
     company_position: "Penningmeester"
     quote : > 
-            "Je kunt bij Ilse terecht voor vragen over de financiën van Beauvoir." 
+            "Je kunt bij Saskia terecht voor alle financiële zaken van Beauvoir." 
