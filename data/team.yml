@@ -41,7 +41,7 @@ members  :
     name        : Laurèn Appelman
     designation : Lichting 0
     
-      - image       : images/team/team-member-three.jpg
+  - image       : images/team/team-member-three.jpg
     name        : Lieke Berns
     designation : Lichting 0 
     
@@ -73,7 +73,7 @@ members  :
     name        : Minke Holleboom
     designation : Lichting 1
 
-      - image       : images/team/team-member-five.jpg
+  - image       : images/team/team-member-five.jpg
     name        : Hannah Boogert
     designation : Lichting 2
 
