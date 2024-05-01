@@ -1,3 +1,3 @@
-[submodule "themes/roxo-hugo"]
-	path = themes/roxo-hugo
-	url = https://github.com/StaticMania/roxo-hugo.git
+[submodule "themes/roxo-eleventy"]
+	path = themes/roxo-eleventy
+	url = https://github.com/StaticMania/roxo-eleventy.git
