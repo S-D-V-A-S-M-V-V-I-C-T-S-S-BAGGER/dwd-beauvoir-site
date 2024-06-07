@@ -1,0 +1,110 @@
+---
+layout: default
+title: Home
+permalink: '/'
+pagination: 
+  enabled: true
+---
+
+<!-- start: hero section -->
+<section class="site-hero" style="background-image: url({{ 'images/backgrounds/hero-background.png' | absolute_url }});">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <div class="site-hero-content text-center">
+          <h6>On n'existe pas sans faire</h6>
+          <h1>D.W.D. Beauvoir</h1>
+          <ul class="site-hero-content-buttons">
+            <li>
+              <a href="{{ '/leden' | absolute_url }}" class="btn btn-secondary">
+                <span class="btn-area">
+                  <span data-text="Bekijk onze leden">
+                    Bekijk onze leden
+                  </span>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/contact' | absolute_url }}" class="btn btn-primary">
+                <span class="btn-area">
+                  <span data-text="Neem contact op">
+                    Neem contact op
+                  </span>
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <a href="#counter" class="site-hero-scroll scroll-to">
+    <img src="images/arrow-down.svg" alt="arrow-down">
+  </a>
+</section>
+<!-- end: hero section -->
+
+<!-- start: counter section -->
+<section class="site-counter" id="counter">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title">
+          <h2 class="text-white">Onze cijfers</h2>
+        </div>
+      </div>
+      {% if site.data.counters.size > 0 %}
+      {% for counter in site.data.counters %}
+      <div class="col-lg-3 col-md-6">
+        <div class="site-counter-item">
+          <span class="site-counter-item-title">{{ counter.title }}</span>
+          <h3 class="site-counter-item-number">{{ counter.count }}</h3>
+        </div>
+      </div>
+      {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+</section>
+<!-- end: counter section -->
+
+{% if site.data.bestuur.enable %}
+<!-- start: bestuur section -->
+<section class="site-bestuur">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title">
+          <h2>
+            {{ site.data.bestuur.title }}
+          </h2>
+          <p>
+            {{ site.data.bestuur.subtitle }}
+          </p>
+        </div>
+      </div>
+      {% for bestuur in site.data.bestuur.bestuursleden %}
+      <div class="col-lg-4 col-md-6">
+        <div class="site-testimonial-item">
+          <div class="site-testimonial-item-header">
+            <div class="thumb">
+              <img src="{{ testimonial.foto | absolute_url }}" alt="user-thumb">
+            </div>
+            <div class="person">
+              <h5>{{ bestuur.naam }}</h5>
+              <p>{{ bestuur.functie }}</p>
+            </div>
+          </div>
+          <p class="site-testimonial-item-body">
+            {{ bestuur.quote }}
+          </p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- end: testimonial section -->
+{% endif %}
+
+{% include call-to-action.html %}
