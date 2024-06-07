@@ -1,0 +1,190 @@
+enable: true
+title: Onze leden
+leden:
+  - foto       : images/team/team-member-three.jpg
+    naam       : Cordelia Rödder
+    lichting   : Lichting 0 
+    
+  - foto       : images/team/team-member-one.jpg
+    naam       : Geeske Boer
+    lichting   : Lichting 0
+
+  - foto       : images/team/team-member-two.jpg
+    naam       : Helen Harmsen
+    lichting   : Lichting 0
+
+  - foto       : images/team/team-member-four.jpg
+    naam       : Justine Wolters
+    lichting   : Lichting 0
+
+  - foto       : images/team/team-member-five.jpg
+    naam       : Lara Leijtens
+    lichting   : Lichting 0
+
+  - foto       : images/team/team-member-three.jpg
+    naam       : Cordelia Rödder
+    lichting   : Lichting 0 
+    
+  - foto       : images/team/team-member-one.jpg
+    naam       : Geeske Boer
+    lichting   : Lichting 0
+
+  - foto       : images/team/team-member-two.jpg
+    naam       : Helen Harmsen
+    lichting   : Lichting 0
+
+  - foto       : images/team/team-member-four.jpg
+    naam       : Justine Wolters
+    lichting   : Lichting 0
+
+  - foto       : images/team/team-member-six.jpg
+    naam       : Laurèn Appelman
+    lichting   : Lichting 0
+    
+  - foto       : images/team/team-member-three.jpg
+    naam       : Lieke Berns
+    lichting   : Lichting 0 
+    
+  - foto       : images/team/team-member-one.jpg
+    naam       : Machteld Vermeer
+    lichting   : Lichting 0
+
+  - foto       : images/team/team-member-two.jpg
+    naam       : Marloes Hengeveld
+    lichting   : Lichting 0
+
+  - foto       : images/team/team-member-four.jpg
+    naam       : Maureen Groot Koerkamp
+    lichting   : Lichting 0
+
+  - foto       : images/team/team-member-five.jpg
+    naam       : Evelyn van de Bildt
+    lichting   : Lichting 1
+
+  - foto       : images/team/team-member-six.jpg
+    naam       : Floor Bakker
+    lichting   : Lichting 1
+    
+  - foto       : images/team/team-member-five.jpg
+    naam       : Ilse van Bruggen
+    lichting   : Lichting 1
+
+  - foto       : images/team/team-member-six.jpg
+    naam       : Minke Holleboom
+    lichting   : Lichting 1
+
+  - foto       : images/team/team-member-five.jpg
+    naam       : Hannah Boogert
+    lichting   :   Lichting 2
+
+  - foto       : images/team/team-member-six.jpg
+    naam       : Manon Milner
+    lichting   : Lichting 2
+    
+  - foto       : images/team/team-member-five.jpg
+    naam       : Marjolein Scheffers
+    lichting   : Lichting 2
+
+  - foto       : images/team/team-member-six.jpg
+    naam       : Mayke Doorn
+    lichting   : Lichting 2
+
+  - foto       : images/team/team-member-five.jpg
+    naam       : Anne Leemreize
+    lichting   : Lichting 3
+
+  - foto       : images/team/team-member-six.jpg
+    naam       : Isabel Gerritsen
+    lichting   : Lichting 3
+    
+  - foto       : images/team/team-member-five.jpg
+    naam       : Maartje Geurts
+    lichting   : Lichting 3
+
+  - foto       : images/team/team-member-six.jpg
+    naam       : Rachel Foppen
+    lichting   : Lichting 3
+
+  - foto       : images/team/team-member-five.jpg
+    naam       : Cyrelle Tenhagen
+    lichting   : Lichting 4
+
+  - foto       : images/team/team-member-six.jpg
+    naam       : Lilian van Oosterhout
+    lichting   : Lichting 4
+    
+  - foto       : images/team/team-member-five.jpg
+    naam       : Nellie Duisterwinkel
+    lichting   : Lichting 4
+
+  - foto       : images/team/team-member-six.jpg
+    naam       : Nynke Dijkhuis
+    lichting   : Lichting 4
+
+  - foto       : images/team/team-member-five.jpg
+    naam       : Annefie Tuinstra
+    lichting   : Lichting 5
+
+  - foto       : images/team/team-member-six.jpg
+    naam       : Ilse Schieven
+    lichting   : Lichting 5
+    
+  - foto       : images/team/team-member-five.jpg
+    naam       : Maaike Geerdink
+    lichting   : Lichting 5
+
+  - foto       : images/team/team-member-six.jpg
+    naam       : Nicole Fledderus
+    lichting   : Lichting 5
+
+  - foto       : images/team/team-member-five.jpg
+    naam       : Anne de Voer
+    lichting   : Lichting 6
+
+  - foto       : images/team/team-member-six.jpg
+    naam       : Eva Vogelezang
+    lichting   : Lichting 6
+    
+  - foto       : images/team/team-member-five.jpg
+    naam       : Ilse Akkermans
+    lichting   : Lichting 6
+
+  - foto       : images/team/team-member-six.jpg
+    naam       : Marijke Agaart
+    lichting   : Lichting 6
+
+  - foto       : images/team/team-member-five.jpg
+    naam       : Sarah Mans
+    lichting   : Lichting 6
+
+  - foto       : images/team/team-member-six.jpg
+    naam       : Saskia Slump
+    lichting   : Lichting 6
+    
+  - foto       : images/team/team-member-five.jpg
+    naam       : Anna Bril
+    lichting   : Lichting 7
+
+  - foto       : images/team/team-member-six.jpg
+    naam       : Emma Kempers
+    lichting   : Lichting 7
+
+  - foto       : images/team/team-member-five.jpg
+    naam       : Maartje Kuperus
+    lichting   : Lichting 7
+
+  - foto       : images/team/team-member-six.jpg
+    naam       : Lelie van Everdingen
+    lichting   : Lichting 8
+    
+  - foto       : images/team/team-member-five.jpg
+    naam       : Madelief Gianotten
+    lichting   : Lichting 8
+
+  - foto       : images/team/team-member-six.jpg
+    naam       : Meike Moes
+    lichting   : Lichting 8
+
+  - foto       : images/team/team-member-six.jpg
+    naam       : Nienke Overgoor
+    lichting   : Lichting 8
