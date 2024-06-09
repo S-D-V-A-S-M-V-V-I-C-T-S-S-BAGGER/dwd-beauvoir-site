@@ -33,13 +33,13 @@ webrick:
 navigation:
   - title: Home
     url: /
-  - title: About
+  - title: Historie
     url: /about
-  - title: Portfolio
+  - title: Bestuur
     url: /portfolio
-  - title: Blog
+  - title: Leden
     url: /blog
-  - title: Get in touch
+  - title: Contact
     url: /contact
     tag: special
 
