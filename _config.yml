@@ -2,7 +2,8 @@ title: D.W.D. Beauvoir
 email: beauvoirbestuur@gmail.com
 description: Dames Wedstrijd Dispuut Beauvoir
 baseurl: "/"
-url: "https://dwdbeauvoir.nl/"
+domain: dwdbeauvoir.nl
+url: https://dwdbeauvoir.nl
 
 
 gems:
