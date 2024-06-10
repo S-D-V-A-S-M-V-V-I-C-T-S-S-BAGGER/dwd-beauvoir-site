@@ -1,23 +1,17 @@
-# Welcome to Jekyll!
-
 title: D.W.D. Beauvoir
 email: beauvoirbestuur@gmail.com
 description: Dames Wedstrijd Dispuut Beauvoir
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/"
 url: "https://dwdbeauvoir.nl/"
-# twitter_username: jekyllrb
-# github_username:  jekyll
-# We're using formspree.io for form handling, paste your formspree url below
-# fabFormUrl: "https://fabform.io/f/Ecj6gBK"
 
-# Build settings
+
 gems:
   - jekyll-paginate-v2
 
 pagination:
   enabled: true
   per_page: 2
-  permalink: '/blog/:num/'
+  permalink: '/historie/:num/'
   sort_field: 'date'
   sort_reverse: true
 
@@ -34,11 +28,11 @@ navigation:
   - title: Home
     url: /
   - title: Historie
-    url: /about
+    url: /historie
   - title: Bestuur
-    url: /portfolio
+    url: /bestuur
   - title: Leden
-    url: /blog
+    url: /leden
   - title: Contact
     url: /contact
     tag: special
@@ -57,8 +51,8 @@ call-to-action:
 footer:
   contactInfo:
     title   : "Contact Info"
-    address : "Auke Vleerstraat 99 Enschede"
-    # phone   : "409-896-1444"
+    address : "Auke Vleerstraat 99"
+    city    : "Enschede"
     email   : "beauvoirbestuur@gmail.com"
   sitemap:
     title: "Sitemap"
@@ -74,17 +68,8 @@ footer:
   social:
     title: "Social Media"
     link: 
-      # - name  : "Medium"
-      #   url   : "#"
-      # - name  : "Behance"
-      #   url   : "#"
-      # - name  : "Dribbble"
-      #   url   : "#"
       - name  : "Instagram"
         url   : "https://www.instagram.com/d.w.d.beauvoir"
-  # service:
-  #   title: "We help brands:"
-  #   description: "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -94,14 +79,8 @@ footer:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - Gemfile
+  - Gemfile.lock

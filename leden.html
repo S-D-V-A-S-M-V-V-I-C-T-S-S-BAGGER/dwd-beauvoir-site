@@ -2,24 +2,22 @@
 layout: default
 title: Leden
 permalink: /leden/
-<!-- heading : "WE ARE ROXO DESIGN. AN AWARD-WINNING CREATIVE STUDIO IN FLORIDA." -->
-<!-- description : "We are specialized in developing forward-thinking brand identities, websites, illustration and animation for all types of customers. And we do this by bringing our customers through each phase of the design process with us." -->
-<!-- expertise_title: "Expertise" -->
-<!-- expertise_sectors: ["Customer Experience Design", "Digital Products", "Development", "Campaign & Content", "Employer Branding", "Animation & Motion Graphics", "Packaging & Product Design", "Retail & Spacial", "Print & Editorial Design", "Concept/Text", "Information Design"] -->
+heading : "Leden van D.W.D. Beauvoir"
+description : "Wij hebben alle leden. Alleen maar de beste leden."
 ---
 
-<!-- start: about header section -->
-<section class="site-about-header">
+<!-- start: historie header section -->
+<section class="site-historie-header">
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <div class="site-about-wrapper">
-          <div class="site-about-company">
+        <div class="site-historie-wrapper">
+          <div class="site-historie-company">
             <h1>
               {{ page.heading }}
             </h1>
           </div>
-          <div class="site-about-description">
+          <div class="site-historie-description">
             <p>
               {{ page.description }}
             </p>
@@ -29,30 +27,8 @@ permalink: /leden/
     </div>
   </div>
 </section>
-<!-- end: about header section -->
+<!-- end: historie header section -->
 
-<!-- start: expertise section -->
-<!-- <section class="site-expertise">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-5">
-        <div class="section-title">
-          <h2>{{ page.expertise_title }}</h2>
-        </div>
-      </div>
-      <div class="col-md-6">
-        {% assign expertises = page.expertise_sectors %}
-        <ul class="site-expertise-list">
-          {%- for expertise in expertises -%}
-            <li>{{ expertise }}</li>
-          {%- endfor -%}
-        </ul>
-        {% assign expertises = nill %}
-      </div>
-    </div>
-  </div>
-</section> -->
-<!-- end: expertise section -->
 
 {%- if site.data.leden.enable -%}
 {%- assign leden = site.data.leden -%}

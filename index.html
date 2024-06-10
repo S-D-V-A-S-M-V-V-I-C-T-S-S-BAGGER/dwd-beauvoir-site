@@ -7,7 +7,7 @@ pagination:
 ---
 
 <!-- start: hero section -->
-<section class="site-hero" style="background-image: url({{ 'images/backgrounds/hero-background.png' | absolute_url }});">
+<section class="site-hero" style="background-image: url({{ 'images/backgrounds/background.png' | absolute_url }});">
   <div class="container">
     <div class="row">
       <div class="col-lg-10 mx-auto">
@@ -85,17 +85,17 @@ pagination:
       </div>
       {% for bestuur in site.data.bestuur.bestuursleden %}
       <div class="col-lg-4 col-md-6">
-        <div class="site-testimonial-item">
-          <div class="site-testimonial-item-header">
+        <div class="site-bestuur-item">
+          <div class="site-bestuur-item-header">
             <div class="thumb">
-              <img src="{{ testimonial.foto | absolute_url }}" alt="user-thumb">
+              <img src="{{ bestuur.foto | absolute_url }}" alt="user-thumb">
             </div>
             <div class="person">
               <h5>{{ bestuur.naam }}</h5>
               <p>{{ bestuur.functie }}</p>
             </div>
           </div>
-          <p class="site-testimonial-item-body">
+          <p class="site-bestuur-item-body">
             {{ bestuur.quote }}
           </p>
         </div>
@@ -104,7 +104,7 @@ pagination:
     </div>
   </div>
 </section>
-<!-- end: testimonial section -->
+<!-- end: bestuur section -->
 {% endif %}
 
 {% include call-to-action.html %}

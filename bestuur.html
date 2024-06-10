@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Portfolio
-description: We build better <span>products</span> to help our clients build better <span>companies</span>
-permalink: '/portfolio'
+title: Bestuur
+description: Huidige- en oud-besturen van D.W.D. Beauvoir.
+permalink: '/bestuur'
 ---
 <!-- start: project header -->
 <section class="site-project-header">
@@ -26,11 +26,11 @@ permalink: '/portfolio'
 </section>
 <!-- end: project header -->
 
-<!-- start: portfolio section -->
+<!-- start: leden section -->
 <section class="site-project" id="project">
   <div class="container">
     <div class="row">
-      {% assign posts = site.posts | where:'type', 'portfolio' %}
+      {% assign posts = site.posts | where:'type', 'leden' %}
       {%- for post in posts -%}
       <div class="col-lg-6 col-md-10 mx-auto">
         <div class="site-project-item">
@@ -48,6 +48,6 @@ permalink: '/portfolio'
     </div>
   </div>
 </section>
-<!-- end: portfolio section -->
+<!-- end: leden section -->
 
 {%- include call-to-action.html -%}
