@@ -1,0 +1,22 @@
+---
+layout: default
+permalink: '/historie'
+---
+
+<!-- start: historie header -->
+{%- assign historie = site.data.historie -%}
+<section class="site-historie-header">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 text-center">
+        <h1>{{ historie.title }}</h1>
+        <p>
+          {{ historie.content }}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end: historie header -->
+
+{%- include call-to-action.html -%}
