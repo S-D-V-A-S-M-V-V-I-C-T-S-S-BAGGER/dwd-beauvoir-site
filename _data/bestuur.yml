@@ -2,19 +2,19 @@ enable  : true
 title   : "Bestuur"
 subtitle: "Het huidige bestuur van D.W.D. Beauvoir"
 bestuursleden :
-  - foto : "images/bestuur/Eva.jpg"
+  - foto : "images/bestuur/eva.jpg"
     naam  : "Eva Vogelezang"
     functie: "Voorzitter"
     quote : > 
             "Voor vragen over commissies, leden en vergaderingen kun je terecht bij Eva."
 
-  - foto : "images/bestuur/Nicole.jpg"
+  - foto : "images/bestuur/nicole.jpg"
     naam  : "Nicole Fledderus"
     functie: "Secretaris"
     quote : > 
             "Nicole is het eerste contactpunt voor leden en externen, ook is zij de beheerder van de maandelijkse mail." 
 
-  - foto : "images/bestuur/Saskia.jpg"
+  - foto : "images/bestuur/saskia.jpg"
     naam  : "Saskia Slump"
     functie: "Penningmeester"
     quote : > 
