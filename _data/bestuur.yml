@@ -2,20 +2,20 @@ enable  : true
 title   : "Bestuur"
 subtitle: "Het huidige bestuur van D.W.D. Beauvoir"
 bestuursleden :
-  - foto : "images/bestuur/eva.jpg"
-    naam  : "Eva Vogelezang"
+  - foto : "images/bestuur/an.jpg"
+    naam  : "Anna Bril"
     functie: "Voorzitter"
     quote : > 
-            "Voor vragen over commissies, leden en vergaderingen kun je terecht bij Eva."
+            "Voor vragen over commissies, leden en vergaderingen kun je terecht bij Anna."
 
-  - foto : "images/bestuur/nicole.jpg"
-    naam  : "Nicole Fledderus"
+  - foto : "images/bestuur/mad.jpg"
+    naam  : "Madelief Gianotten"
     functie: "Secretaris"
     quote : > 
-            "Nicole is het eerste contactpunt voor leden en externen, ook is zij de beheerder van de maandelijkse mail." 
+            "Madelief is het eerste contactpunt voor leden en externen, ook is zij de beheerder van de maandelijkse mail." 
 
-  - foto : "images/bestuur/saskia.jpg"
-    naam  : "Saskia Slump"
+  - foto : "images/bestuur/em.jpg"
+    naam  : "Emma Kempers"
     functie: "Penningmeester"
     quote : > 
-            "Je kunt bij Saskia terecht voor alle financiële zaken van Beauvoir."
+            "Je kunt bij Emma terecht voor alle financiële zaken van Beauvoir."
